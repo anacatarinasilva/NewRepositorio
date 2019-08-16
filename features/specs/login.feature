@@ -8,7 +8,8 @@ Funcionalidade: Fazer login no site do Mark7
 @deslogar
 Cenário: fazer login com sucesso
 Dado que o usuario tenha um usuario
-|email|ana.catarina.d.silva@accenture.com|
-|senha|1Senhor*amor                      |
+|email|aaa.cccccccc.d.sssss@aaaaaaaaa.com|
+|senha|1Sssssssssss                      |
 Quando ele se logar
 Entao ele verificará que está logado
+
